@@ -6,3 +6,6 @@ Depth First Search (Iterative and Recursive) = > https://www.geeksforgeeks.org/p
 Detecting Cycle in Undirected Graphs (BFS and DFS) => https://www.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1 
 Bipartite Graph (DFS and BFS) => https://www.geeksforgeeks.org/problems/bipartite-graph/1
 Detecting Cycle in Directed Graphs (BFS / Kahn's Algorithm and DFS) => https://www.geeksforgeeks.org/problems/detect-cycle-in-a-directed-graph/1
+Topological Sort (BFS / Kahn's Algorithm and DFS) => https://www.geeksforgeeks.org/problems/topological-sort/1
+Shortest Path in Directed Graph => https://www.geeksforgeeks.org/problems/shortest-path-in-undirected-graph/1
+
