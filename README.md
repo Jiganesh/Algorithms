@@ -10,5 +10,12 @@ Algorithm Speed Run Sheet
 - [Shortest Path in Directed Graph](https://www.geeksforgeeks.org/problems/shortest-path-in-undirected-graph)
 - [Shortest Path in Undirected Graph](https://www.geeksforgeeks.org/problems/shortest-path-in-undirected-graph-having-unit-distance)
 - [Dijkstras Algorithm](https://www.geeksforgeeks.org/problems/implementing-dijkstra-set-1-adjacency-matrix) 
-- [Bellman-Ford Algorithm for Directed and Undirected Negative weighted Graphs](https://www.geeksforgeeks.org/problems/distance-from-the-source-bellman-ford-algorithm)
+- [Bellman-Ford Algorithm (negative weighted graphs)](https://www.geeksforgeeks.org/problems/distance-from-the-source-bellman-ford-algorithm)
+- [Floyd Warshall](https://www.geeksforgeeks.org/problems/implementing-floyd-warshall2042/1)
+- [MST - Prims's Algorithm / Kruskal's Algorithm ](https://www.geeksforgeeks.org/problems/minimum-spanning-tree/1)
+- [Implement Disjoint Set with Union by Size/Rank]()
+- [Strongly Connected Components - Kosarajus Algorithm](https://www.geeksforgeeks.org/problems/strongly-connected-components-kosarajus-algo/1)
+- [Tarjans Algorithm - Bridges in Graphs](https://leetcode.com/problems/critical-connections-in-a-network/)
+- [Articulation Points](https://www.geeksforgeeks.org/problems/articulation-point-1/1)
+
 
