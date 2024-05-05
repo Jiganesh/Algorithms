@@ -1,6 +1,8 @@
-Algorithm Speed Run Sheet
+## Algorithm Speed Run Sheet
 
 
+
+### Must Know Graph Algorithms
 - [Breadth First Search (Iterative and Recursive)](https://www.geeksforgeeks.org/problems/bfs-traversal-of-graph/1)
 - [Depth First Search (Iterative and Recursive)](https://www.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1)
 - [Detecting Cycle in Undirected Graphs (BFS and DFS)](https://www.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph) 
@@ -17,5 +19,9 @@ Algorithm Speed Run Sheet
 - [Strongly Connected Components - Kosarajus Algorithm](https://www.geeksforgeeks.org/problems/strongly-connected-components-kosarajus-algo/1)
 - [Tarjans Algorithm - Bridges in Graphs](https://leetcode.com/problems/critical-connections-in-a-network/)
 - [Articulation Points](https://www.geeksforgeeks.org/problems/articulation-point-1/1)
+
+Graph Questions : 
+https://leetcode.com/tag/graph/
+https://leetcode.com/tag/union-find/
 
 
