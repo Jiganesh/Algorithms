@@ -1,3 +1,14 @@
+**Boiler Plate**
+
+```
+from collections import deque
+
+```
+
+
+
+
+
 
 **Counter comparisions**
 

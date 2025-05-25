@@ -1,6 +1,6 @@
 ## Algorithm Speed Run Sheet
 
-### Must Know Graph Algorithms
+### Must Know Graph Algorithms 
 - [Breadth First Search (Iterative and Recursive)](https://www.geeksforgeeks.org/problems/bfs-traversal-of-graph/1)
 - [Depth First Search (Iterative and Recursive)](https://www.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1)
 - [Detecting Cycle in Undirected Graphs (BFS and DFS)](https://www.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph) 
@@ -22,4 +22,6 @@ Graph Questions :
 - https://leetcode.com/tag/graph/
 - https://leetcode.com/tag/union-find/
 
+
+Graph Questions Solved in Leetcode : 
 
