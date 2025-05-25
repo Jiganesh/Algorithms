@@ -23,15 +23,12 @@ class Stack :
         print(self.length)
 
 
-
-
 stack_instance = Stack()
 
 stack_instance.push(2)
 stack_instance.push(4)
 stack_instance.push(6)
 stack_instance.size() # 3
-
 
 stack_instance.pop()
 stack_instance.size() # 2

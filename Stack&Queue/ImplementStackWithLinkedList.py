@@ -36,7 +36,6 @@ class StackWithLinkedList :
         print()
         
 
-
 stack_instance = StackWithLinkedList()
 
 stack_instance.push(2)

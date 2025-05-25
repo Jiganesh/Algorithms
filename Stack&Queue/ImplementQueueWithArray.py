@@ -23,8 +23,6 @@ class Queue :
         print(self.length)
 
 
-
-
 queue_instance = Queue()
 
 queue_instance.enqueue(2)

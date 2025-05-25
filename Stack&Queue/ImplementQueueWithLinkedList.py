@@ -36,7 +36,6 @@ class QueueWithLinkedList :
         print()
         
 
-
 queue_instance = QueueWithLinkedList()
 
 queue_instance.enqueue(2)

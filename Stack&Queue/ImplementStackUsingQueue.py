@@ -23,10 +23,6 @@ class StackUsingQueue:
 
     def size (self):
         print(len(self.queue))
-
-
-
-
         
 
 stack_instance = StackUsingQueue()
