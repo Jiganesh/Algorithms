@@ -3,7 +3,6 @@
 
 class Solution:
     
-    
     def articulationPoints(self, V, adj):
         # code here
         
