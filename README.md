@@ -3,11 +3,12 @@
 ```
 import math
 from collections import deque, defaultdict, Counter
+from itertools import groupby
 
 ```
 
 
-
+---
 
 
 ### Counter comparisions**
@@ -82,3 +83,70 @@ False and "EVEN" will return False (short-circuted)
 False or "ODD" will return ODD
 
 Hence the result of (5%2==0) and "EVEN" or "ODD" will be "ODD"
+
+
+
+---
+
+
+
+### Precision Handling in Python
+
+```
+
+f"{answer:.9f}" 
+
+OR
+
+{:.9f}.format("answer")
+
+```
+---
+
+### Triangular Numbers
+
+How many dots are there in below triangle ?
+
+```
+
+        1
+
+      2   3
+
+    4   5   6
+
+ 7   8   9    10
+
+ ```
+
+
+**Gauss's Formula** = n * (n+1) / 2
+
+```
+
+ There are 4 rows 
+
+ 1 Number in 1st row
+
+ 2 Numbers in 2nd row
+
+ 3 Numbers in 3rd row
+
+ 4 Numbers in 4th row
+
+
+Gauss's Formula
+
+ 1 + 2 + 3 + 4 ....... n
++
+ n + n-1 + n-2 + n-3 .... 1
+
+ - - - - - - - - - - - - - - 
+
+ (n+1) + (n+1) + (n+1)....... for n number of times
+
+ hence n * (n+1) and since we added the series n * (n+1) / 2
+
+ Hence 4 * 5 / 2 = 10 which is the last number
+
+ ```
