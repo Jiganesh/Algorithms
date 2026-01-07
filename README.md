@@ -150,3 +150,21 @@ Gauss's Formula
  Hence 4 * 5 / 2 = 10 which is the last number
 
  ```
+
+ ---
+
+
+### Find summation of all the node values in an Binary Tree
+
+ ```
+
+def summation (root): 
+  return root.val + summation(root.left) + summation(root.right) if root else 0
+
+
+OR 
+
+summation = lambda root : root.val + summation(root.left) + summation(root.right) if root else 0
+
+ ```
+
